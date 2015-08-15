@@ -1,0 +1,16 @@
+{
+  "name": "cpv",
+  "version": "1.0.1",
+  "author": "Jeremy Apthorp <nornagon@nornagon.net> (http://nornagon.net)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nornagon/cpv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nornagon/cpv/issues"
+  },
+  "homepage": "https://github.com/nornagon/cpv#readme",
+  "main": "main.js",
+  "description": ""
+}
